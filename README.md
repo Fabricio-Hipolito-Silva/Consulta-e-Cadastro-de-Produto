@@ -1,0 +1,1 @@
+Um aplicativo no electron, conectado a um banco de dados. O intuito disso é servir como um aplicativo que possa cadastrar produtos novos, assim como consultar esses produtos cadastrados. É um serviço que vai ser usado no trabalho dos meus pais.
