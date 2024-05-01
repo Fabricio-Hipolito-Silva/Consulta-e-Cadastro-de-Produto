@@ -1,0 +1,26 @@
+{
+  "name": "app_casa_de_carnes",
+  "version": "1.0.0",
+  "description": "Um aplicativo de cadastro e consulta de preço para o açougue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabricio-Hipolito-Silva/Consulta-e-Cadastro-de-Produto.git"
+  },
+  "author": "Fabricio Hipólito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabricio-Hipolito-Silva/Consulta-e-Cadastro-de-Produto/issues"
+  },
+  "homepage": "https://github.com/Fabricio-Hipolito-Silva/Consulta-e-Cadastro-de-Produto#readme",
+  "devDependencies": {
+    "electron": "^30.0.1"
+  },
+  "dependencies": {
+    "mysql2": "^3.9.7"
+  }
+}
